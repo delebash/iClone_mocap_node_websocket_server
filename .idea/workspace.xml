@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc6a71f1-fb66-413a-a354-4868cdc1335a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="fc6a71f1-fb66-413a-a354-4868cdc1335a" name="Default Changelist" comment="update readme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -34,7 +36,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -43,7 +45,10 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Start" type="NodeJSConfigurationType" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+    <configuration default="true" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../../../Program Files/nodejs/node" path-to-js-file="$PROJECT_DIR$/server.js">
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../../../Program Files/nodejs/node" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
   </component>
@@ -60,11 +65,99 @@
       <workItem from="1603818435112" duration="75000" />
       <workItem from="1603818520881" duration="1295000" />
       <workItem from="1603819881566" duration="12000" />
-      <workItem from="1603825066265" duration="339000" />
+      <workItem from="1603825066265" duration="447000" />
+      <workItem from="1603825629883" duration="616000" />
+      <workItem from="1603828932667" duration="775000" />
+      <workItem from="1603838273551" duration="742000" />
+      <workItem from="1603842861933" duration="1363000" />
+      <workItem from="1603845256304" duration="684000" />
+      <workItem from="1603848576741" duration="1201000" />
+      <workItem from="1603900813223" duration="17000" />
+      <workItem from="1604598193711" duration="640000" />
+      <workItem from="1604599424963" duration="29000" />
+      <workItem from="1604609789339" duration="8212000" />
+      <workItem from="1604638145871" duration="4903000" />
+      <workItem from="1604648136576" duration="604000" />
+      <workItem from="1604692245193" duration="612000" />
+      <workItem from="1604693286406" duration="10000" />
+      <workItem from="1604693439170" duration="2219000" />
+      <workItem from="1604696089556" duration="3000" />
+      <workItem from="1604700829474" duration="2018000" />
+      <workItem from="1604705475984" duration="5632000" />
+      <workItem from="1604791512829" duration="2663000" />
+      <workItem from="1604807290843" duration="2086000" />
+      <workItem from="1604813970830" duration="6000" />
+      <workItem from="1604814048423" duration="611000" />
+      <workItem from="1604873668962" duration="1480000" />
+      <workItem from="1604901924255" duration="2136000" />
+      <workItem from="1605042800285" duration="596000" />
+      <workItem from="1605106260202" duration="484000" />
+      <workItem from="1605115038382" duration="1014000" />
+      <workItem from="1605116127034" duration="83000" />
+      <workItem from="1605116218578" duration="15000" />
+      <workItem from="1605116241797" duration="193000" />
+      <workItem from="1605116504009" duration="52000" />
+      <workItem from="1605116568748" duration="1000" />
+      <workItem from="1605127652141" duration="7595000" />
+      <workItem from="1605172255989" duration="2842000" />
+      <workItem from="1605182385428" duration="1809000" />
+      <workItem from="1605307658880" duration="398000" />
+      <workItem from="1605310880900" duration="145000" />
+      <workItem from="1605312410800" duration="490000" />
+      <workItem from="1605312963133" duration="197000" />
+      <workItem from="1605313613840" duration="1043000" />
+      <workItem from="1605315089341" duration="1042000" />
+      <workItem from="1605316916351" duration="5906000" />
+      <workItem from="1605323216028" duration="669000" />
+      <workItem from="1606173554685" duration="801000" />
+      <workItem from="1606174820473" duration="2462000" />
+      <workItem from="1606187076990" duration="2101000" />
     </task>
+    <task id="LOCAL-00001" summary="update readme">
+      <created>1603825427110</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603825427110</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="update readme" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/server.js</url>
+          <line>20</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/server.js</url>
+          <line>18</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

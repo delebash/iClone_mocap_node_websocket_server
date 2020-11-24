@@ -17,7 +17,7 @@ io.on('connection', function (socket) {
 
     socket.on('room', function (room) {
         socket.join(room);
-        socket.emit('join', room)
+      //  socket.emit('join', room)
         console.log('joined room  ' + room)
     });
 
@@ -25,15 +25,17 @@ io.on('connection', function (socket) {
 
     socket.on('message', function (data,toRoom) {
         if (toRoom.length > 1){
-            socket.to(toRoom).emit('message', data)
+            console.log(data)
+            // socket.to(toRoom).emit('message', data)
         }else{
-            socket.emit('message', data)
+            // socket.emit('message', data)
         }
     })
 
     socket.on('data', function (data,toRoom) {
         if (toRoom.length > 1){
-            socket.to(toRoom).emit('data', data)
+            // console.log(data)
+           socket.to(toRoom).emit('data', data)
         }else{
             socket.emit('data', data)
         }
@@ -44,7 +46,7 @@ io.on('connection', function (socket) {
     })
 
     socket.on('error', function (err) {
-        console.log('received error from client:', socket.id)
+        // console.log('received error from client:', socket.id)
         console.log(err)
     })
 })
